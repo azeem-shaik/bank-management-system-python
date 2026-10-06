@@ -268,7 +268,7 @@ It is **not intended for handling real financial transactions or sensitive banki
 
 ## 👨‍💻 Author
 
-**Azeem Shaik**
+**Shaik Azeem**
 
 GitHub:  
 https://github.com/azeem-shaik
